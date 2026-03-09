@@ -12,7 +12,7 @@ I'm a data analyst with a passion for building things that use data to create re
 - Improving my skills in data visulization and data models.
 
 ### ⚡ Fun Fact
-- When I'm not dataing, I'm usually staring into space, trying to solve the world's problems.
+- When I'm not analyzing data, I'm usually staring into space, trying to solve the world's problems.
 
 ---
 
